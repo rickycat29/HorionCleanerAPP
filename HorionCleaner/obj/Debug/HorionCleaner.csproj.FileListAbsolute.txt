@@ -1,0 +1,10 @@
+C:\Users\horion\Desktop\hct\HorionCleaner\HorionCleaner\bin\Debug\HorionCleaner.exe.config
+C:\Users\horion\Desktop\hct\HorionCleaner\HorionCleaner\bin\Debug\HorionCleaner.exe
+C:\Users\horion\Desktop\hct\HorionCleaner\HorionCleaner\bin\Debug\HorionCleaner.pdb
+C:\Users\horion\Desktop\hct\HorionCleaner\HorionCleaner\obj\Debug\HorionCleaner.csproj.AssemblyReference.cache
+C:\Users\horion\Desktop\hct\HorionCleaner\HorionCleaner\obj\Debug\HorionCleaner.Properties.Resources.resources
+C:\Users\horion\Desktop\hct\HorionCleaner\HorionCleaner\obj\Debug\HorionCleaner.csproj.GenerateResource.cache
+C:\Users\horion\Desktop\hct\HorionCleaner\HorionCleaner\obj\Debug\HorionCleaner.csproj.CoreCompileInputs.cache
+C:\Users\horion\Desktop\hct\HorionCleaner\HorionCleaner\obj\Debug\HorionCleaner.exe
+C:\Users\horion\Desktop\hct\HorionCleaner\HorionCleaner\obj\Debug\HorionCleaner.pdb
+C:\Users\horion\Desktop\hct\HorionCleaner\HorionCleaner\obj\Debug\HorionCleaner.exe.config
